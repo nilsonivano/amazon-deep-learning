@@ -1,0 +1,5 @@
+/data
+/inputs
+/.ipynb_checkpoints
+keras_vgg16.h5
+keras_vgg16.json
